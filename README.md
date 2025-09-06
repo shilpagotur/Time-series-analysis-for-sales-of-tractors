@@ -14,7 +14,7 @@ Accurate sales prediction is valuable for **production planning, inventory manag
 
 ---
 
-##📊 Workflow
+**##📊 Workflow**
 
 Load and explore the dataset
 
