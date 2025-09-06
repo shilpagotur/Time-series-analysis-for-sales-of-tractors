@@ -14,6 +14,44 @@ Accurate sales prediction is valuable for **production planning, inventory manag
 
 ---
 
+##📊 Workflow
+
+Load and explore the dataset
+
+Perform exploratory data analysis (EDA) and visualize sales trends
+
+Decompose the time series into trend, seasonality, residuals
+
+Apply forecasting models (e.g., ARIMA / Holt-Winters)
+
+Generate predictions for upcoming months
+
+Evaluate model accuracy
+
+---
+
+##📈 Results & Insights
+
+Tractor sales show strong seasonality and long-term growth trend
+
+Forecasts provide realistic future sales estimates
+
+Example: Predictions suggest recurring seasonal demand cycles that align with historical data
+
+Insights from this project can support business planning, marketing strategies, and inventory decisions
+
+---
+
+##🚀 Future Enhancements
+
+Test advanced models like SARIMA, Facebook Prophet, or LSTMs
+
+Build a web app dashboard (Streamlit/Flask) for interactive sales forecasting
+
+Automate monthly updates with rolling forecasts
+
+---
+
 ## requirements
 
 numpy
@@ -23,6 +61,7 @@ seaborn
 scikit-learn
 statsmodels
 
+---
 
 ## ⚙️ How to Run
 1. Download all the files from this repository to your system.  
