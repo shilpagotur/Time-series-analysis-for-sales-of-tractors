@@ -14,7 +14,7 @@ Accurate sales prediction is valuable for **production planning, inventory manag
 
 ---
 
-**##📊 Workflow**
+## 📊 Workflow
 
 Load and explore the dataset
 
@@ -30,7 +30,7 @@ Evaluate model accuracy
 
 ---
 
-##📈 Results & Insights
+## 📈 Results & Insights
 
 Tractor sales show strong seasonality and long-term growth trend
 
@@ -42,7 +42,7 @@ Insights from this project can support business planning, marketing strategies, 
 
 ---
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Test advanced models like SARIMA, Facebook Prophet, or LSTMs
 
